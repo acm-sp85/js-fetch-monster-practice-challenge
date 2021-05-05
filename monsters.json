@@ -6005,6 +6005,24 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Pillo",
+      "age": 35,
+      "description": "He is the funniest monster",
+      "id": 1002
+    },
+    {
+      "name": "Kazaya",
+      "age": "567",
+      "description": "Lost in a small pond in Indiana, Kazaya craves PopTarst",
+      "id": 1003
+    },
+    {
+      "name": "Pieter",
+      "age": "43",
+      "description": "Likes to drink Vodka ",
+      "id": 1004
     }
   ]
 }
